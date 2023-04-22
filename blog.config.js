@@ -23,7 +23,7 @@ const BLOG = {
     books: false,
     friends: false
   },
-  showWeChatPay: true,
+  showWeChatPay: false,
   previewImagesEnabled: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateHost: 'og-zl.vercel.app/api/default?background=https%3A%2F%2Fi.ibb.co%2F2c8j3jm%2Fcool-background.png&border=solid&description=tl%3Adr&logo=https%3A%2F%2Fimg.icons8.com%2Fclouds%2F100%2Fnull%2Fcyber-security.png&siteName=blog.visbran.fr&summary=.&theme=light&title=.', // The link to generate OG image, don't end with a slash
