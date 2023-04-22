@@ -4,7 +4,7 @@ const BLOG = {
   email: 'contact@visbran.fr',
   link: 'https://blog.visbran.fr',
   newsletter: 'Newsletter de la semaine',
-  description: 'L’objectif principal de ce blog est d’en faire une sorte de bibliothèque de données ou je peux retrouver facilement, installation configuration & autre lié au domaine du web de l&informatique',
+  description: 'Lobjectif principal de ce blog est den faire une sorte de bibliothèque de données ou je peux retrouver facilement, installation configuration & autre lié au domaine du web de l&informatique',
   lang: 'fr-FR', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Europe/Paris', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
