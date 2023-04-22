@@ -1,7 +1,7 @@
 module.exports = {
   i18n: {
-    locales: ['fr'],
-    defaultLocale: 'fr',
+    locales: ['en'],
+    defaultLocale: 'en',
     localeDetection: false
   },
   transpilePackages: ['dayjs'],
