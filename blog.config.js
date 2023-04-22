@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'tl:dr - encore un blog informatique',
+  title: 'encore un blog informatique',
   author: 'visbran',
   email: 'contact@visbran.fr',
   link: 'https://blog.visbran.fr',
